@@ -1,0 +1,250 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	background-color: #F0F0F0;
+
+}
+body
+{
+
+
+}
+header
+{
+
+padding: 51px 30px;
+}
+.container
+{
+	width: 1000px;
+	margin: auto;
+	display: flex;
+	overflow: hidden;
+	background: #F0F0F0;
+}
+.logo
+{
+
+display: inline-block;
+
+width: 30%;
+
+padding-top: 15px;
+}
+.logo img
+{
+
+}
+nav 
+{
+    width: 70%;
+}
+
+nav ul
+{
+
+display: flex;
+
+justify-content: flex-end;
+}
+nav ul li
+{
+	padding: 10px;
+	margin: 0 10px;
+	list-style-type: none;
+	padding-top: 4px;
+}
+nav ul li a
+{
+	text-transform: uppercase;
+	color: #00000087;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 17px;
+	display: block;
+}
+nav ul li a:hover
+{
+	background-color: black;
+	color: white;
+	
+
+}
+.banner .container img
+{
+	width: 100%;
+
+}
+.description
+{
+
+width: 1000px;
+
+margin: auto;
+}
+.content
+
+{
+
+width: 93%;
+
+padding: 50px 0;
+
+padding-left: 47px;
+}
+
+.content h4
+{
+
+padding: 15px 0;
+
+color: #00000052;
+
+text-transform: uppercase;
+
+font-size: 13px;
+}
+.content h2
+{
+
+padding-bottom: 15px;
+
+color: #0000008f;
+}
+.content p
+{
+
+color: #0000008f;
+}
+.content h3
+{
+	
+padding: 25px 0;
+	
+color: #00000052;
+	
+font-size: 15px;
+}
+.content h3 a
+{
+	
+padding: 10px 0;
+	
+text-decoration: none;
+	
+color: #00000054;
+}
+.col-1
+{
+	width: 50%;
+	float: left;
+	padding: 0 23px;
+}
+.col-1 .image
+{
+
+}
+.image img
+{
+
+max-width: 100%;
+}
+
+.con h1
+{
+
+color: #00000082;
+
+padding-bottom: 25px;
+}
+.con p
+{
+
+color: #0000008f;
+}
+.terms
+{
+	
+width: 40%;
+	
+display: flex;
+	
+padding-top: 14px;
+}
+.terms ul
+{
+	
+display: flex;
+}
+.terms ul li
+{
+	
+padding: 25px;
+	
+font-size: 22px;
+	
+list-style: none;
+	
+color: #000000c4;
+}
+.icon
+{
+	
+width: 60%;
+}
+.icon ul
+{
+	
+display: flex;
+	
+justify-content: flex-end;
+}
+.icon ul li
+{
+	
+list-style: none;
+	
+padding: 15px;
+	
+font-size: 22px;
+}
+li#follow 
+{
+    padding-top: 34px;
+    color: #000000c4;
+}
+.icon ul li a
+{
+} 
+.icon ul li a i
+{
+	
+height: 50px;
+	
+width: 50px;
+	
+text-align: center;
+	
+line-height: 50px;
+	
+border: 1px solid #0000001a;
+	
+box-shadow: 0 0 5px #0000001c;
+	
+color: #000000c4;
+	
+border-radius: 5px;
+}
+.icon ul li a i:hover
+{
+	background-color: black;
+	border-radius: 3px;
+	color: white;
+}
+footer
+{
+	padding: 2px 0 100px 0;
+}
